@@ -1,10 +1,9 @@
 #include <iostream>
 #include <vector>
-#include "parser.tab.h" // Bison이 생성한 헤더
+#include "parser.tab.h"
 #include "common.h"
 
 using namespace std;
-// 외부 변수 선언 (Bison에서 만든 바이트코드 저장소)
 extern std::vector<Instruction> bytecode;
 extern int yyparse();
 
