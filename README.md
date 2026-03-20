@@ -67,7 +67,7 @@ output : 1 1 2 3 5 8 13 21 34 55 89 144
 
 ## 🔗 Links
 * **Compiler/Source:** [GitHub - whereismystack](https://github.com/realgitman1/whereismystack/tree/master)
-* esolang wiki :  [https://esolangs.org/wiki/Whereismystack]
+* esolang wiki :  https://esolangs.org/wiki/Whereismystack
 ---
 **Categories:** `Stack-based` | `Esoteric languages` | `String-based`
 
