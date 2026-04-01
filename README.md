@@ -70,5 +70,3 @@ output : 1 1 2 3 5 8 13 21 34 55 89 144
 * esolang wiki :  https://esolangs.org/wiki/Whereismystack
 ---
 **Categories:** `Stack-based` | `Esoteric languages` | `String-based`
-
-Would you like me to help you write a specific script or explain how a certain mathematical value would be processed through the "Last-Two-Digits" rule?
